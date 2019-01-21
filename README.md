@@ -5,23 +5,18 @@ Document prepared by Kartik Arora on 21st January 2019
 ## Table of Content
 
 * Executive Summary
-
-* Delivery Scope
-
-    * Project Defination
-    * Executive Summary
-    * Delivery Scope
-    * Devices
-    * Web/Soft-ware
-    * Maintance
-    * Exclusions
-    * Deliverables
-    * Customer Responsibilities
-    * Investment and Cost
-    * Acceptance Criteria
-    * Assumptions
-    * IPR
-    * Approvals
+* Project Defination
+* Devices
+* Web/Soft-ware
+* Maintance
+* Exclusions
+* Deliverables
+* Customer Responsibilities
+* Investment and Cost
+* Acceptance Criteria
+* Assumptions
+* IPR
+* Approvals
 
 
 
