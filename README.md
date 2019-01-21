@@ -54,6 +54,8 @@ The Value Proposition of using Akriya Technologies for this project are:
 ```
 Data to Capture:    Water Temperature
                     Chlorine Level
+                    pH level
+                    Water TDS
 
 ```
 * In-Facility Device
@@ -61,6 +63,7 @@ Data to Capture:    Water Temperature
 Data to Capture:    Humidity
                     Temperature
                     Number of people*
+
 ```
 * Equipment Interfaces
 
@@ -69,12 +72,15 @@ Data to Capture:    Humidity
     Data to Capture:    In-let temprature of water
                         Outlet temperature of the water
                         Operating hours
+
     ``` 
 
 
     * Geyser:
     ```
     Data to Capture:    Operating hours
+                        In-let temprature of water
+                        Outlet temprature of water
     ```
 
 
@@ -96,9 +102,11 @@ Native packages to interact with the devices.
 
 * Dashboard
 A user interface exposed as a PWA on any domain required by Fitso. 
+(It would be recommended to use Admin SDK or APIs in Fitso's existing dashboards.)
 Design/Requirements for this dashboard to be agreed upon prior to any further development.
 
 * On Premise Portal
+()
 A UI to be displayed on a screen/system inside the facility for the on-premise staff.
 
 ## Maintenance
@@ -132,7 +140,7 @@ Access top level Git repositories for the Dashboard, on-premise portal, and admi
     * In Pool Device : 25,000 INR
     * In Facility Device : 5,000 INR
     * Heatpump Controller: 5,000 INR
-    * Gyser : 2,000 INR
+    * Geyser : 2,000 INR
     * Water Motors : 2,500 INR
     * Filter Unit : 5,000 INR
     * On premise Wifi/Internet Router : 2,000 INR
