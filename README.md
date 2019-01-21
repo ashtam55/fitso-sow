@@ -8,22 +8,24 @@ One Paragraph of project description goes here
 
 * Delivery Scope
 
-** Project Defination
-** Interview & Analysis
-** Design requirements
-** Documentation Detail
-** Exclusions
-** Deliverables
-** Customer Responsibilities
-** Investment Costs
-** Payment Schedule
-** Acceptance Criteria
-** Assumptions
-** IPR
+    * Project Defination
+    * Executive Summary
+    * Delivery Scope
+    * Devices
+    * Web/Soft-ware
+    * Maintance
+    * Exclusions
+    * Deliverables
+    * Customer Responsibilities
+    * Investment and Cost
+    * Acceptance Criteria
+    * Assumptions
+    * IPR
+    * Approvals
 
-** Appendix
 
-### Executive Summary
+
+## Executive Summary
 This documentation is to serve as a 'Statement of Work' or SOW for implementing few digital Transformations at a Fitso facility to enhance and empower Administrations. The advancement in the field of IoT, 
 networks, computing and data sceience and made possible Integrated systems that can really help buisness.
 Such system would include a means to capture, cataloge and analyse data, along with tools to enforce 'buisness logic'.
@@ -44,7 +46,7 @@ The value Proposition of using Akriya Technologies for this project are:
 *** Leveraging our experience in working with IoT toolkit (ESP) to bootstap your effort. 
 *** Using our subject matter experts to complete project quickly. Rapid project completion minimizes disruptions and allows organizqations to realize cost saving quickly.
 
-### Delivery Scope
+## Delivery Scope
 
 ** Project Defination
 - A review of the current Fitso Administration System of 1 Fitso Facility.
