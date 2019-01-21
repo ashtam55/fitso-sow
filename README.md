@@ -31,26 +31,26 @@ networks, computing and data sceience and made possible Integrated systems that 
 Such system would include a means to capture, cataloge and analyse data, along with tools to enforce 'buisness logic'.
 
 Akriya Technologies will work with Fitso to:
-*** Desing the Smart Fitso Facility Architecture
-*** Identify options to integrate various systems - both Fitso Internal and External
-*** Develop and Engineer said system
-*** Deploy said system to a Fitso Facility
-*** Provide documentation of the new system
-*** Knowledge Transfer/Integrate with Fitso Tech team
+    * Desing the Smart Fitso Facility Architecture
+    * Identify options to integrate various systems - both Fitso Internal and External
+    * Develop and Engineer said system
+    * Deploy said system to a Fitso Facility
+    * Provide documentation of the new system
+    * Knowledge Transfer/Integrate with Fitso Tech team
 
 Akriya Technologies proposes to design, develop and provide installation of v1.0 of the proposed system to 1 Fitso Facility.
-This activity will require 8 weeks. The estimated cost for this activity would be 5 lakhs INR. // TODO kaaro: Calculate and not estimate
+This activity will require 8 weeks. The estimated cost for this activity would be 2 lakhs INR plus per device cost which averages around 4000 INR. 
 
 The value Proposition of using Akriya Technologies for this project are:
-*** Proven engineering techniques for making Intergrated systems.
-*** Leveraging our experience in working with IoT toolkit (ESP) to bootstap your effort. 
-*** Using our subject matter experts to complete project quickly. Rapid project completion minimizes disruptions and allows organizqations to realize cost saving quickly.
+    * Proven engineering techniques for making Intergrated systems.
+    * Leveraging our experience in working with IoT toolkit (ESP) to bootstap your effort. 
+    * Using our subject matter experts to complete project quickly. Rapid project completion minimizes disruptions and allows organizqations to realize cost saving quickly.
 
 ## Delivery Scope
 
-** Project Defination
-- A review of the current Fitso Administration System of 1 Fitso Facility.
-- A project kickoff meeting to discuss and document complete scope of Digital Transformation of Fitso Facility and the goals and requirements of this project.
+* Project Defination
+    - A review of the current Fitso Administration System of 1 Fitso Facility.
+    - A project kickoff meeting to discuss and document complete scope of Digital Transformation of Fitso Facility and the goals and requirements of this project.
 
 ## Devices
 
@@ -69,22 +69,22 @@ Data to Capture:    Humidity
 ```
 * Equipment Interfaces
 
-*** Heatpump Controller:
+    * Heatpump Controller:
 ``` 
 Data to Capture:    In-let temprature of water
                     Out-let temprature of water
                     Operating hours
 ```
 
-*** Gyser:
+    * Gyser:
 ```
 Data to Capture:    Operating hours
 ```
-*** Water Motors:
+    * Water Motors:
 ```
 Data to Capture:    Operating hours
 ```
-*** Filter Unit
+    * Filter Unit
 ```
 Data to Capture:    Operating hours
                     Operating state
@@ -171,16 +171,16 @@ If Akriya Technologies is notified by Fitso, within the above time frame, of any
 
 ## Assumptions
 * General
-*** All documentaion created for this project  will be available in hard copy and electronic format.
-*** Any modifications to the scope of work will be handled through a change control process and will be agreed to by both parties.
+    * All documentaion created for this project  will be available in hard copy and electronic format.
+    * Any modifications to the scope of work will be handled through a change control process and will be agreed to by both parties.
 
 * Commercial
-*** Additional costs may be incurred where any delay not under the control of Akriya Technologies that causes Akriya Technologies personnel to not fulfill their scheduled tasks.
-*** An authorized delegate of Fitso will be available at the time of completion of the build phase so that all documentation can be accepted and signed.
-*** Additional costs may be incurred where any work scheduled to be undertaken by Akriya Technologies is postponed by Fitso after 24 hours of its commencement.
-*** All changes to schedule or technical requirements must be provided to Akriya Technologies in written format. Email is included as written format. Receipt of all correspondence should be confirmed by phone wherever possible.
-* Fitso has accepted the costs/times estimate as detailed in this document
-* Fitso has accepted the Akriya Technologies standard terms and conditions linked.
+    * Additional costs may be incurred where any delay not under the control of Akriya Technologies that causes Akriya Technologies personnel to not fulfill their scheduled tasks.
+    * An authorized delegate of Fitso will be available at the time of completion of the build phase so that all documentation can be accepted and signed.
+    * Additional costs may be incurred where any work scheduled to be undertaken by Akriya Technologies is postponed by Fitso after 24 hours of its commencement.
+    * All changes to schedule or technical requirements must be provided to Akriya Technologies in written format. Email is included as written format. Receipt of all correspondence should be confirmed by phone wherever possible.
+    * Fitso has accepted the costs/times estimate as detailed in this document
+    * Fitso has accepted the Akriya Technologies standard terms and conditions linked.
 
 ## Intellectual Property
 Unless otherwise agreed in writing, Fitso acknowledges that all intellectual property rights attaching to the products or arising out of the provision of services are and will remain the property of Akriya Technolgies (or its supplies, where such rights are owned by that supplier).
