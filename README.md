@@ -1,6 +1,6 @@
 # Statement of Work - Fitso Facility Digital Transformation (Administration)
 
-One Paragraph of project description goes here
+Document prepared by Kartik Arora on 21st January 2019
 
 ## Table of Content
 
@@ -31,20 +31,20 @@ networks, computing and data sceience and made possible Integrated systems that 
 Such system would include a means to capture, cataloge and analyse data, along with tools to enforce 'buisness logic'.
 
 Akriya Technologies will work with Fitso to:
-    * Desing the Smart Fitso Facility Architecture
-    * Identify options to integrate various systems - both Fitso Internal and External
-    * Develop and Engineer said system
-    * Deploy said system to a Fitso Facility
-    * Provide documentation of the new system
-    * Knowledge Transfer/Integrate with Fitso Tech team
+* Desing the Smart Fitso Facility Architecture
+* Identify options to integrate various systems - both Fitso Internal and External
+* Develop and Engineer said system
+* Deploy said system to a Fitso Facility
+* Provide documentation of the new system
+* Knowledge Transfer/Integrate with Fitso Tech team
 
 Akriya Technologies proposes to design, develop and provide installation of v1.0 of the proposed system to 1 Fitso Facility.
 This activity will require 8 weeks. The estimated cost for this activity would be 2 lakhs INR plus per device cost which averages around 4000 INR. 
 
 The value Proposition of using Akriya Technologies for this project are:
-    * Proven engineering techniques for making Intergrated systems.
-    * Leveraging our experience in working with IoT toolkit (ESP) to bootstap your effort. 
-    * Using our subject matter experts to complete project quickly. Rapid project completion minimizes disruptions and allows organizqations to realize cost saving quickly.
+* Proven engineering techniques for making Intergrated systems.
+* Leveraging our experience in working with IoT toolkit (ESP) to bootstap your effort. 
+* Using our subject matter experts to complete project quickly. Rapid project completion minimizes disruptions and allows organizqations to realize cost saving quickly.
 
 ## Delivery Scope
 
