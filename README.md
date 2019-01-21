@@ -59,15 +59,18 @@ Data to Capture:    Water Temperature
 
 ```
 * In-Facility Device
+
 ```
 Data to Capture:    Humidity
                     Temperature
                     Number of people*
 
 ```
+
 * Equipment Interfaces
 
     * Heatpump Controller:
+
     ``` 
     Data to Capture:    In-let temprature of water
                         Outlet temperature of the water
@@ -77,6 +80,7 @@ Data to Capture:    Humidity
 
 
     * Geyser:
+
     ```
     Data to Capture:    Operating hours
                         In-let temprature of water
@@ -85,12 +89,14 @@ Data to Capture:    Humidity
 
 
     * Water Motors:
+
     ```
     Data to Capture:    Operating hours
     ```
 
 
     * Filter Unit
+
     ```
     Data to Capture:    Operating hours
                         Operating state*
