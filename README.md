@@ -70,25 +70,30 @@ Data to Capture:    Humidity
 * Equipment Interfaces
 
     * Heatpump Controller:
-``` 
-Data to Capture:    In-let temprature of water
-                    Out-let temprature of water
-                    Operating hours
-```
+    ``` 
+    Data to Capture:    In-let temprature of water
+                        Out-let temprature of water
+                        Operating hours
+    ``` 
+
 
     * Gyser:
-```
-Data to Capture:    Operating hours
-```
+    ```
+    Data to Capture:    Operating hours
+    ```
+
+
     * Water Motors:
-```
-Data to Capture:    Operating hours
-```
+    ```
+    Data to Capture:    Operating hours
+    ```
+
+
     * Filter Unit
-```
-Data to Capture:    Operating hours
-                    Operating state
-```
+    ```
+    Data to Capture:    Operating hours
+                        Operating state
+    ```
 
 ## Web/Soft - ware
 * Admin SDK / APIs for Devices
