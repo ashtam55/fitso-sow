@@ -21,8 +21,8 @@ Document prepared by Kartik Arora on 21st January 2019
 
 
 ## Executive Summary
-This documentation is to serve as a 'Statement of Work' or SOW for implementing few digital Transformations at a Fitso facility to enhance and empower Administrations. The advancement in the field of IoT, 
-networks, computing and data science and made possible Integrated systems that can really help business.
+This documentation is to serve as a 'Statement of Work' or SOW for implementing few Digital Transformations at a Fitso facility to enhance and empower Administrations. The advancement in the field of IoT, 
+Networks, Computing and Data Science has made possible Integrated systems that can really help business.
 Such a system would include a means to capture, catalog and analyze data, along with tools to enforce 'business logic'.
 
 Akriya Technologies will work with Fitso to:
@@ -87,7 +87,7 @@ Data to Capture:    Humidity
     * Filter Unit
     ```
     Data to Capture:    Operating hours
-                        Operating state
+                        Operating state*
     ```
 
 ## Web/Software
@@ -126,28 +126,21 @@ Access top level Git repositories for the Dashboard, on-premise portal, and admi
 * Client will provide a work area space with desk, chair, Internet access for use by Akriya Technologies to conduct project business while working on-site.
 
 ## Investment and Cost
-Man-hour required: 2 months: 2 lakh INR
+* Man-hour required: 2 months: 2 lakh INR
 
-Hardware required: On Cost  : 
-    - In Pool Device
-        : 25,000 INR
-    - In Facility Device
-        : 5,000 INR
-    - Heatpump Controller*
-        : 5,000 INR
-    - Gyser
-        : 2,000 INR
-    - Water Motors
-        : 2,500 INR
-    - Filter Unit
-        : 5,000 INR
-    - On premise Wifi/Internet Router
-        : 2,000 INR
+* Hardware required: On Cost  : 
+    * In Pool Device : 25,000 INR
+    * In Facility Device : 5,000 INR
+    * Heatpump Controller: 5,000 INR
+    * Gyser : 2,000 INR
+    * Water Motors : 2,500 INR
+    * Filter Unit : 5,000 INR
+    * On premise Wifi/Internet Router : 2,000 INR
     
-Server/Web hosting charges:
-    - 60$ / month = 4000 INR
+* Server/Web hosting charges:
+    * 60$ / month = 4000 INR
 
-Bill separately for travel costs will be billed at actual cost and will not exceed 10,000 INR for the entire project.
+*Bill separately for travel costs will be billed at actual cost and will not exceed 10,000 INR for the entire project.
 
  * Payment Schedule
 
