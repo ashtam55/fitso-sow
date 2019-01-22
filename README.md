@@ -26,7 +26,8 @@ Networks, Computing and Data Science has made possible Integrated systems that c
 Such a system would include a means to capture, catalog and analyze data, along with tools to enforce 'business logic'.
 
 Akriya Technologies will work with Fitso to:
-* Desing the Smart Fitso Facility Architecture
+
+* Designing the Smart Fitso Facility Architecture
 * Identify options to integrate various systems - both Fitso Internal and External
 * Develop and Engineer the system
 * Deploy said system to a Fitso Facility
@@ -64,7 +65,7 @@ Data to Capture:    Water Temperature
 Data to Capture:    Humidity
                     Temperature
                     Number of people*
-
+                    
 ```
 
 * Equipment Interfaces
@@ -75,7 +76,6 @@ Data to Capture:    Humidity
     Data to Capture:    In-let temprature of water
                         Outlet temperature of the water
                         Operating hours
-
     ``` 
 
 
@@ -116,7 +116,7 @@ Design/Requirements for this dashboard to be agreed upon prior to any further de
 A UI to be displayed on a screen/system inside the facility for the on-premise staff.
 
 ## Maintenance
-To be maintained for 6 months and then rediscuss based on new requirements and learnings/
+To be maintained for 6 months and then rediscuss based on new requirements and learnings.
 
 ## Exclusions
 The followings are excluded from the project scope
