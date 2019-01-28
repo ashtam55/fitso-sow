@@ -24,7 +24,7 @@ In-facility device for LPS Pool facility of Fitso, that measures Humidity and Te
 
 
 ## Expectations
-* The fabrication of the PCB and the Module's housing are subject to availability and might extend beyond 1st February. In such a scenario, I will be installing the device with manual soldering and 3-d printed casing until the final version is ready.
+* The fabrication of the PCB and the Module's housing are subject to availability and might extend beyond 1st February. In such a scenario, I will be installing the device with manual soldering and 3D printed casing until the final version is ready.
 
 * The API endpoints that the device would hit be provided by Fisto's tech team in a pre-defined Schema. Until this is the scenario, I would be exposing a repository (used for development purposes) with the last 15 days of data.
 
@@ -32,4 +32,4 @@ In-facility device for LPS Pool facility of Fitso, that measures Humidity and Te
 
 * The Module housing provided would be stock, if any changes are required, we can discuss.
 
-* at the end of Week 1 tasks, Fitso will have schematics, source code, and documentation 
+* At the end of Week 1 tasks, Fitso will have schematics, source code, and documentation to manufature its own in-facility device or get it manufactured by us for the base cost.
