@@ -22,6 +22,8 @@ I have used the variable __payload__ to append to the GET request
 To add new nodes (from the list you would see on the left), simply drag and drop.
 
 
+[Making your first flow](https://nodered.org/docs/getting-started/first-flow) page might be helpful.
+
 ## Thanks
 Node-RED is an amazing tool to wire-up automated flows
 
