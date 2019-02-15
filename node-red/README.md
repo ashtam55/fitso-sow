@@ -8,7 +8,6 @@ I have setup a small Node-RED flow which has
     * In-facility device 1 Temperature
 * 2 HTTP request Nodes, to forward this data to an endpoint
     This contains the URL endpoints used
-
 * 2 debug node
     
 
@@ -17,10 +16,7 @@ You can simply edit any node by double clicking.
 
 To change the HTTP endpoint, double click the HTTP node, to edit it.
 Then change the URL.
-I have used the variable payload to append to the GET request
-```
-{{payload}}
-```
+I have used the variable __payload__ to append to the GET request
 
 
 To add new nodes (from the list you would see on the left), simply drag and drop.
